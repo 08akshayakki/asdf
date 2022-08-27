@@ -9,7 +9,7 @@ def pop():
         print("the list is empty")
     else:
         e=stack.pop()
-        print("the element poped out of the list is ",e)
+        print("tdgregergehe element poped out of the list is ",e)
         print(stack)
 
 while True:

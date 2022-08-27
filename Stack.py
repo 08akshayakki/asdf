@@ -6,7 +6,7 @@ def push():
 
 def pop():
     if not stack:
-        print("the list is empty")
+        print("the list hfufvis empty")
     else:
         e=stack.pop()
         print("tdgregergehe element poped out of the list is ",e)
